@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.tabuleiro{
+    position: absolute;
+    bottom: 34%;
+    right: 34%;
+}
+.lin{
+   position: relative;
+    
+   
+}
+.squad{
+
+    display: inline-block;
+    height: 150px;
+    width: 150px;
+    background-color: bisque;
+
+}

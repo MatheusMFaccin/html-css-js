@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+body{
+    
+
+    background-color:rgba(55, 55, 219, 0.4) ;
+    
+
+}
+.conteiner{
+    background-color: white;
+    padding: 40px;
+    display: flex;
+    position: absolute;
+    right: 800px;
+    bottom: 400px;
+    
+          
+}
+form{
+    
+   margin-top:20px;
+    
+    
+    
+}
+input{
+    margin-top: 20px;
+}
+.usuario{
+    margin-right: 10px;
+}
